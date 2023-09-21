@@ -1,0 +1,38 @@
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\bin\Debug\Atlantis Hotel.exe.config
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\bin\Debug\Atlantis Hotel.exe
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\bin\Debug\Atlantis Hotel.pdb
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis Hotel.csproj.AssemblyReference.cache
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis Hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.Properties.Resources.resources
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis Hotel.csproj.GenerateResource.cache
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis Hotel.csproj.CoreCompileInputs.cache
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis Hotel.exe
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis Hotel.pdb
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmYeniMüsteri.resources
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmAdminGiris.resources
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmAnaForm.resources
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmOdalar.resources
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmMusteriler.resources
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmGelirGider.resources
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmStoklar.resources
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmSifreGuncelle.resources
+C:\Users\aytes\OneDrive\Masaüstü\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmMesajlar.resources
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\bin\Debug\Atlantis Hotel.exe.config
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\bin\Debug\Atlantis Hotel.exe
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\bin\Debug\Atlantis Hotel.pdb
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis Hotel.csproj.AssemblyReference.cache
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis Hotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmAdminGiris.resources
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmAnaForm.resources
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmGelirGider.resources
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmMesajlar.resources
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmMusteriler.resources
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmOdalar.resources
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmSifreGuncelle.resources
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmStoklar.resources
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.FrmYeniMüsteri.resources
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis_Hotel.Properties.Resources.resources
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis Hotel.csproj.GenerateResource.cache
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis Hotel.csproj.CoreCompileInputs.cache
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis Hotel.exe
+C:\Users\aytes\OneDrive\Masaüstü\Projelerim\Tamamlanmışlar\Atlantis Hotel\Atlantis Hotel\Atlantis Hotel\obj\Debug\Atlantis Hotel.pdb
